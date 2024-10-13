@@ -17,7 +17,7 @@ Olá! 🎉 Eu criei dois novos comandos para o nosso sistema de chat que permiti
 
 **💡 Exemplo:**
 
-```#Button|Olá, como você está?|Bem*id_bem/Mal*id_mal/Péssimo*id_pessimo```
+```#Button|Olá, como você está?|Bem*id_bem/Mal*id_mal/Pessimo*id_pessimo```
 
 **🔍 Explicação:**
 - **#Button**: Indica que você está criando uma mensagem com botões.
@@ -43,7 +43,7 @@ Isso mostra o **tipo de botão**, o **ID** selecionado e o **texto** do botão.
 
 **💡 Exemplo:**
 
-```#List|Olá, como você está?|Diga a verdade|Não seja tímido|Bem*Perfeito*id_bem/Mal*Muito*id_mal/Péssimo*Chorando*id_pessimo```
+```#List|Olá, como você está?|Diga a verdade|Não seja tímido|Bem*Perfeito*id_bem/Mal*Muito*id_mal/Pessimo*Chorando*id_pessimo```
 
 **🔍 Explicação:**
 - **#List**: Indica que você está criando uma mensagem com uma lista.

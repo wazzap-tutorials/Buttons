@@ -17,7 +17,7 @@
 
 **💡 Ejemplo:**
 
-```#Button|Hola, ¿cómo estás?|Bieni*d_bien/Mal*id_mal/Pésimo*id_pesimo```
+```#Button|Hola, ¿cómo estás?|Bien*d_bien/Mal*id_mal/Pesimo*id_pesimo```
 
 **🔍 Explicación:**
 - **#Button**: Indica que estás creando un mensaje con botones.
