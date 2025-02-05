@@ -1,0 +1,27 @@
+# Comandos Butttons
+
+#ButtonMix|Titulo|Subtitulo|video*https://wazzap-files.sfo3.cdn.digitaloceanspaces.com/0104bf58-22ea-4b66-9454-79ebe69cdf6d.mp4|button*Bien*id_bien/button*Mal*id_mai/button*Pesimo*id_pesimo
+
+#ButtonMix|Titulo|Subtitulo|image*https://wisphub.io/static/img/wisp-bg-5.jpg|button*Bien*id_bien/button*Mal*id_mai/button*Pesimo*id_pesimo
+
+#ButtonMix|Titulo|Subtitulo|image*https://wisphub.io/static/img/wisp-bg-5.jpg|copy*Copy Code*000011
+
+#ButtonMix|Titulo|Subtitulo|image*https://wisphub.io/static/img/wisp-bg-5.jpg|call*Llamar*id_call
+
+#ButtonMix|Titulo|Subtitulo|image*https://wisphub.io/static/img/wisp-bg-5.jpg|url*Visit Web*https%3A%2F%2Fwww.google.com/url*Contact*https%3A%2F%2Fwww.facebook.com
+
+
+# Comandos Listas
+
+#ListMix|Titulo|Subtitulo|Footer|image*https://wisphub.io/static/img/wisp-bg-5.jpg|Action|Section-1*Bien*Perfecto*id_bien/Section-1*Mal*Muy Mal*id_mai/Section-2*Pesimo*Llorando*id_pesimo
+
+
+# Comandos Carousel
+
+#Carousel|||Titulo|||Subtitulo|||video*https://wazzap-files.sfo3.cdn.digitaloceanspaces.com/0104bf58-22ea-4b66-9454-79ebe69cdf6d.mp4|||
+#ButtonMix|Titulo|Subtitulo|image*https://wisphub.io/static/img/wisp-bg-5.jpg|button*Bien*id_bien/button*Mal*id_mai/button*Pesimo*id_pesimo
+/////#ButtonMix|Titulo|Subtitulo|image*https://wisphub.io/static/img/wisp-bg-5.jpg|copy*Copy Code*000011
+/////#ButtonMix|Titulo|Subtitulo|image*https://wisphub.io/static/img/wisp-bg-5.jpg|call*Llamar*id_call
+/////#ButtonMix|Titulo|Subtitulo|video*https://wazzap-files.sfo3.cdn.digitaloceanspaces.com/0104bf58-22ea-4b66-9454-79ebe69cdf6d.mp4|url*Visit Web*https%3A%2F%2Fwww.google.com/url*Contact*https%3A%2F%2Fwww.facebook.com
+
+
